@@ -100,6 +100,8 @@ export default {
         name.value = null
         age.value = null
         accept.value = false
+        surname.value=null
+        id.value=null
       }
     }
   }
